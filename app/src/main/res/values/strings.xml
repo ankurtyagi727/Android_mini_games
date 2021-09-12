@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minigame</string>
+    <string-array name="newarray">
+        <item>select-age</item>
+        <item>0-10</item>
+        <item>10-20</item>
+        <item>20-80</item>
+    </string-array>
+</resources>
